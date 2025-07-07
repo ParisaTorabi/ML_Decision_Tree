@@ -4,13 +4,13 @@ This project consists of the following tasks:
 1. Implement a decision tree learning algorithm from scratch
 Implement a greedy algorithm for learning decision trees:
 
-• If all data points have the same label
+* If all data points have the same label
 
-  -return a leaf with that label
+...*return a leaf with that label
   
-• Else if all data points have identical feature values
+* Else if all data points have identical feature values
 
-  -return a leaf with the most common label
+...* return a leaf with the most common label
   
 • Else
 
