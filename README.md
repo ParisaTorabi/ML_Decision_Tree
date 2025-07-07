@@ -6,12 +6,12 @@ Implement a greedy algorithm for learning decision trees:
 
 * If all data points have the same label
 
-⋅⋅⋅⋅* Unordered sub-list. 
-...*return a leaf with that label
+    * Unordered sub-list. 
+    *return a leaf with that label
   
 * Else if all data points have identical feature values
 
-...* return a leaf with the most common label
+    * return a leaf with the most common label
   
 • Else
 
